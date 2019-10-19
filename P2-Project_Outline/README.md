@@ -11,16 +11,16 @@ GameList Application
 ### Overview
 This application will help users document the games they've played before and games they want to and anticipate they'll play next, and add those games to their profile. 
 ### Features
-User Login
-Create Games
-Create Lists
-Add Games to List
+User Login,
+Create Games,
+Create Lists,
+Add Games to List,
 Search Games from Database
 ### Technologies
-Java
-Springboot
-Bootstrap
-MySQL
+Java,
+Springboot,
+Bootstrap,
+MySQL,
 Heroku
 ### What I'll Have to Learn
 I need to learn more about Heroku and how to deploy simple web apps into the Heroku's cloud platform. I also need to learn more about bootstrap and how I can customize the user interface of my app since I want to focus more on making a simple app aesthetically pleasing.
