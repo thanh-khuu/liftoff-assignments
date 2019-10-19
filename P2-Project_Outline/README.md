@@ -6,13 +6,23 @@ For this assignment, you will submit a high-level outline of your project. This 
 
 ## Submission Instructions
 
+GameList Application
+
 ### Overview
-Include overview here
+This application will help users document the games they've played before and games they want to and anticipate they'll play next, and add those games to their profile. 
 ### Features
-Include Features here
+User Login
+Create Games
+Create Lists
+Add Games to List
+Search Games from Database
 ### Technologies
-Include Technologies here
+Java
+Springboot
+Bootstrap
+MySQL
+Heroku
 ### What I'll Have to Learn
-Include what you will need to learn here
+I need to learn more about Heroku and how to deploy simple web apps into the Heroku's cloud platform. I also need to learn more about bootstrap and how I can customize the user interface of my app since I want to focus more on making a simple app aesthetically pleasing.
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/HG5dMx4e/lc101-capstone
