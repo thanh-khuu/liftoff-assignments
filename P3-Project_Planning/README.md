@@ -10,6 +10,9 @@ For this assignment, you'll create some initial plans for your project.
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 
+All wireframes should be present and available to view here.
+* https://www.figma.com/file/YKCazDdFwhfQerR84D51Vp/games-list-project?node-id=0%3A1
+
 ### Project Tracker
 
 Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
