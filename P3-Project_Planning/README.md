@@ -12,6 +12,9 @@ Include at least 3 wireframes here, adding images or files to your repository as
 
 All wireframes should be present and available to view here.
 * https://www.figma.com/file/YKCazDdFwhfQerR84D51Vp/games-list-project?node-id=0%3A1
+* ![Imgur](https://i.imgur.com/g1GkJVm.png)
+* ![Imgur](https://i.imgur.com/KBjAjlB.png)
+* ![Imgur](https://i.imgur.com/twlwGcs.png)
 
 ### Project Tracker
 
